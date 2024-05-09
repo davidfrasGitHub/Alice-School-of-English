@@ -1,0 +1,27 @@
+
+
+main{
+    background: linear-gradient(rgb(0, 212, 189), rgb(255,1,107));
+}
+
+.frase{
+    overflow-wrap: break-word;
+}
+
+#formulario form{
+    background-color: white;
+    border-radius: 5px;
+}
+#formulario form input, #formulario form textarea{
+    background-color: #c0c0c0;
+}
+#formulario form button{
+    background-color: #663399;
+    color: #ffffff;
+    border: 1px solid black;
+}
+
+
+
+
+

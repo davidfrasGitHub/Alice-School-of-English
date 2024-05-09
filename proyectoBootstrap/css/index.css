@@ -1,0 +1,33 @@
+main{
+    background: linear-gradient(45deg, rgb(255,1,107), rgb(0, 212, 189));
+}
+
+#descripcion{
+    background-image: url(../img/pencils-6099511_1920.jpg);
+    background-position: center;
+    filter: grayscale(30%);
+}
+#descripcion p{
+    font-weight: bold;
+    font-size: 1.3rem;
+    color: white;
+}
+
+
+.curso{
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+.curso:hover{
+    transform: translateY(-10px);
+}
+.curso h5{
+    color: #663399;
+}
+.curso a{
+    background-color: #663399;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+}

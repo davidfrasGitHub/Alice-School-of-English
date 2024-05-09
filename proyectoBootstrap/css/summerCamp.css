@@ -1,0 +1,21 @@
+
+span, h3{
+    font-weight: bold;
+    color: black;
+}
+p{
+    overflow-wrap: break-word;
+}
+main{
+    background: linear-gradient(45deg, #5a8d2e, #289ea7 ); 
+    /* background-image: url(../img/beach-1236581_1920.jpg); */
+    background-position: center;
+    filter: opacity(70%);
+    color: white;
+    font-size: 1.3rem;
+}
+
+#actividades ul{
+    list-style: none;
+}
+
